@@ -1,0 +1,139 @@
+
+/* body{
+    font-size: 50px;
+}
+
+div {
+    color: blue;  
+} */
+
+/* p {
+    font-style: normal;
+}   */
+
+/* h1{
+    color: green;
+}
+
+#header{
+    color: green;
+    font-style: italic;
+}
+
+.orice{
+    color: blue;  
+    font-weight: bold;
+} */
+/* 
+a {
+    color: green;
+} */
+
+/* * {
+    color: blue;
+    font-style: italic;
+} */
+
+/* body{
+    background-color: green;
+} */
+
+/* nav {
+    color: red;
+} */
+
+/* .link{
+    color: magenta;
+} */
+/* 
+a {
+    color: magenta;
+} */
+
+
+/* [href="https://home.com"] {
+    color: red;
+} */
+/* 
+[href$=".ro"]{
+    color: magenta;
+}
+
+[for="nume"]{
+    background-color: greenyellow;
+} */
+
+/* :hover{
+    cursor: pointer;
+} */
+/* 
+a:hover{
+    color:aqua;
+    font-size: 20px;
+    cursor: pointer;
+} */
+
+/* p:hover{
+    color: magenta;
+}
+
+h1:hover{
+    background-color: brown;
+} */
+/* .big-cub{
+    height: 4000px;
+}
+
+
+.link:visited{
+    color:red;
+}
+
+a:visited{
+    color:red;
+}
+[href="https://facebook.com"]:visited {
+    color: red;
+} */
+
+/* [type="checkbox"]:checked {
+    color: red;
+   /* outline: 20px solid yellow;
+} */
+
+
+/* li:last-of-type{
+    color: magenta;
+}
+
+label:last-of-type {
+    background-color: blueviolet;
+} */
+
+/* li:nth-child(2n + 1){
+    font-size: 20px;
+    color:red;
+} */
+
+/* label:not([for]) {
+    color:brown;
+} */
+
+ul {
+    list-style-type: none;
+}
+
+li::before {
+    content:"*";
+    width: 10px;
+    height: 10px;
+}
+
+/* li::first-letter{
+    background-color: blueviolet;
+}
+
+p::first-line{
+    color: red;
+    font-size: 20px;
+} */
